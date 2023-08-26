@@ -9,8 +9,8 @@ headers = {
     'Accept': 'application/json'
 }
 response = requests.get(url,
-    #params={'symbol': 'spx', 'expiration': '2023-08-09', 'greeks': 'true'},
-    params={'symbol': sys.argv[1], 'expiration': sys.argv[2], 'greeks': 'true'},
+    params={'symbol': 'spx', 'expiration': '2023-08-25', 'greeks': 'true'},
+    #params={'symbol': sys.argv[1], 'expiration': sys.argv[2], 'greeks': 'true'},
     headers=headers
 )
 
@@ -60,11 +60,11 @@ if response.status_code == 200:
     #print(lower_strikes)
     #print(higher_strikes)
 
-    print('5 strikes with the next lower IV values:')
+    print(' strikes with the next lower IV values:')
     for strike in reversed(lower_strikes): # Reversing to show in descending order
         print(strike['strike'], strike['option_type'], strike['greeks']['mid_iv'])
 
-    print('5 strikes with the next higher IV values:')
+    print(' strikes with the next higher IV values:')
     for strike in higher_strikes:
         print(strike['strike'], strike['option_type'], strike['greeks']['mid_iv'])
 else:
