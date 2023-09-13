@@ -89,14 +89,14 @@ if response.status_code == 200:
             strike_price = parsed_data['Price']
             expiry = parsed_data['Expiry']
 
-            if 4400 <= strike_price <= 4450 and expiry == '2023-09-12':   
+            if 4400 <= strike_price <= 4450 and expiry == '2023-09-14':   
 
                     print(parsed_data)
 
                     responseQuote = requests.get('https://api.tradier.com/v1/markets/quotes',
-                    params={'symbols': 'spx', 'greeks': 'true'},
+                    params={'symbols': 'spy', 'greeks': 'true'},
                     #params={'symbols': {option}, 'greeks': 'true'},
-                    headers={'Authorization': 'Bearer {}'.format(config.ACCESS_TOKEN_pjk), 'Accept': 'application/json'}
+                    headers={'Authorization': 'Bearer {}'.format(config.ACCESS_TOKEN_sjh), 'Accept': 'application/json'}
                     )
 
                     json_response = responseQuote.json()
