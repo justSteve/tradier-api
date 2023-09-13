@@ -53,23 +53,20 @@ def construct_fly_parameters(center, width, exp_date):
     return api_data
 
 # Define your parameters
-center_strike = 4405
+center_strike = 4490
 width = 10
-exp_date = '230801'  # Assuming YYMMDD format for 1st August 2023
+exp_date = '230905'  # Assuming YYMMDD format for 1st August 2023
 
 # Generate the API parameters
 api_parameters = construct_fly_parameters(center_strike, width, exp_date)
 
 # Make the API call to Tradier (replace YOUR_ACCESS_TOKEN and YOUR_ACCOUNT_ID)
 
-
-url = "{}markets/options/chains".format(config.API_BASE_URL_SAND)
-
 headers = {
-    'Authorization': 'Bearer {}'.format(config.ACCESS_TOKEN_SAND), 
+    'Authorization': 'Bearer {}'.format(config.ACCESS_TOKEN_SAND_pjk), 
     'Accept': 'application/json'
 }
-response = requests.post('https://sandbox.tradier.com/v1/accounts/{}/orders'.format(config.ACCOUNT_ID_SAND),
+response = requests.post('https://sandbox.tradier.com/v1/accounts/{}/orders'.format(config.ACCOUNT_ID_SAND_pjk),
                          headers=headers, data=api_parameters)
 
 
