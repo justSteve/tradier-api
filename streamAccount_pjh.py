@@ -30,8 +30,16 @@ async def connect_and_consume():
   print(payload_json)
 
   while True:
-      print("entering 'true' loop")
-      response = await websocket.recv()  # error fires here
-      print(f"< {response}")
+        try:
+            print("entering 'true' loop")
+            response = await websocket.recv()  # error fires here
+            print(f"< {response}")
+        except Exception as e:
+            print ("exception hit!!")
+            print (e)
+            print(response)
+            print(response.text)
+            sys.exit(1)
+
 
 asyncio.get_event_loop().run_until_complete(connect_and_consume())

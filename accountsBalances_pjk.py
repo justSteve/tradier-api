@@ -7,11 +7,19 @@ import pandas as pd
 
 account_id = config.ACCOUNT_ID_pjk
 accessToken = config.ACCESS_TOKEN_pjk
-response = requests.get("https://api.tradier.com/v1/accounts/{account_id}/balances",
+response = requests.get("https://api.tradier.com/v1/accounts/" + account_id + "/balances",
     params={},
-    headers={"Authorization": "Bearer {accessToken}", "Accept": "application/json"}
+    headers={"Authorization": "Bearer " + accessToken, "Accept": "application/json"}
 )
-json_response = response.json()
+try:
+    json_response = response.json()
+except Exception as e:
+    print ("exception hit!!")
+    print (e)
+    print(response)
+    print(response.text)
+    sys.exit(1)
+    
 print(response.status_code)
 print(json_response)
 print(account_id)
