@@ -1,0 +1,1460 @@
+2023-09-25 21:24:42,597:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,597:INFO:models.Strade:Strade Type: P
+2023-09-25 21:24:42,597:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:24:42,598:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,598:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,598:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,598:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,599:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,599:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,599:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,599:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,599:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,599:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,600:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,600:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,600:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,600:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,600:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,600:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,601:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,601:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,601:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,602:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,602:INFO:models.Strade:Strade Type: C
+2023-09-25 21:24:42,602:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:24:42,602:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:24:42,602:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,602:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,603:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:24:42,603:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,603:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,603:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:24:42,603:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,603:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:24:42,604:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:24:42,604:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,604:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,604:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:24:42,604:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,604:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,605:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:24:42,605:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,605:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:24:42,605:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,606:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,606:INFO:models.Strade:Strade Type: C
+2023-09-25 21:24:42,606:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:24:42,606:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:24:42,607:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,607:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,607:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:24:42,607:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,607:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,607:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:24:42,608:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,608:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:24:42,608:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:24:42,608:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,608:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,609:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:24:42,609:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,609:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,609:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:24:42,609:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,609:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:24:42,610:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,610:ERROR:__main__:No center strike leg found for order with ID: 38160327.
+2023-09-25 21:24:42,610:ERROR:__main__:No center strike leg found for order with ID: 38160487.
+2023-09-25 21:24:42,610:ERROR:__main__:No center strike leg found for order with ID: 38160602.
+2023-09-25 21:24:42,611:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,611:INFO:models.Strade:Strade Type: C
+2023-09-25 21:24:42,611:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:24:42,611:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:24:42,611:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,612:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,612:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:24:42,612:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,612:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,613:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:24:42,613:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,613:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:24:42,613:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:24:42,614:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,614:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,614:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:24:42,614:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,614:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,614:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:24:42,615:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,615:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:24:42,615:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,615:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,616:INFO:models.Strade:Strade Type: C
+2023-09-25 21:24:42,616:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:24:42,616:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:24:42,616:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,616:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,617:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:24:42,617:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,617:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,617:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:24:42,617:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,617:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:24:42,618:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:24:42,618:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,618:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,618:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:24:42,618:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,618:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,619:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:24:42,619:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,619:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:24:42,619:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,619:ERROR:__main__:No center strike leg found for order with ID: 38167219.
+2023-09-25 21:24:42,619:ERROR:__main__:No center strike leg found for order with ID: 38167523.
+2023-09-25 21:24:42,620:ERROR:__main__:No center strike leg found for order with ID: 38169272.
+2023-09-25 21:24:42,620:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,620:INFO:models.Strade:Strade Type: C
+2023-09-25 21:24:42,621:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:24:42,621:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:24:42,621:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,621:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,621:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:24:42,622:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,622:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,622:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:24:42,622:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,622:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:24:42,622:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:24:42,623:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,623:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,623:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:24:42,623:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,623:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,623:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:24:42,624:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,624:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:24:42,624:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,625:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,625:INFO:models.Strade:Strade Type: P
+2023-09-25 21:24:42,625:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:24:42,625:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,625:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,626:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,626:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,626:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,626:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,626:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,627:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,627:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,627:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,627:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,627:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,627:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,628:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,628:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,628:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,628:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,628:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,628:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,629:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,630:INFO:models.Strade:Strade Type: P
+2023-09-25 21:24:42,630:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:24:42,630:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,630:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,630:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,631:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,631:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,631:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,631:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,631:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,632:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,632:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,632:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,632:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,632:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,632:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,633:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,633:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,633:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,633:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,633:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,633:ERROR:__main__:No center strike leg found for order with ID: 38173797.
+2023-09-25 21:24:42,634:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,634:INFO:models.Strade:Strade Type: P
+2023-09-25 21:24:42,634:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:24:42,634:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,635:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,635:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,635:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,635:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,635:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,636:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,636:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,636:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,636:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,636:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,636:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,637:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,637:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,637:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,637:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,638:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,638:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,638:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,639:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,639:INFO:models.Strade:Strade Type: P
+2023-09-25 21:24:42,639:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:24:42,639:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,640:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,640:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,640:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,640:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,640:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,641:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,641:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,641:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,641:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,642:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,642:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,642:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,642:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,642:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,643:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,643:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,643:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,643:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,643:ERROR:__main__:No center strike leg found for order with ID: 38175832.
+2023-09-25 21:24:42,644:ERROR:__main__:No center strike leg found for order with ID: 38176040.
+2023-09-25 21:24:42,644:ERROR:__main__:No center strike leg found for order with ID: 38182284.
+2023-09-25 21:24:42,644:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,645:INFO:models.Strade:Strade Type: P
+2023-09-25 21:24:42,645:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:24:42,645:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,645:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,645:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,646:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,646:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,646:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,646:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,646:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,646:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,647:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,647:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,647:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,647:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,647:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,647:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,648:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,648:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,648:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,648:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,649:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,649:INFO:models.Strade:Strade Type: P
+2023-09-25 21:24:42,649:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:24:42,649:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,649:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,649:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,650:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,650:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,650:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,650:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,650:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,650:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,651:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,651:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,651:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,651:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,651:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,651:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,652:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,652:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,652:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,652:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,652:ERROR:__main__:No center strike leg found for order with ID: 38189514.
+2023-09-25 21:24:42,652:ERROR:__main__:No center strike leg found for order with ID: 38189533.
+2023-09-25 21:24:42,653:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,653:INFO:models.Strade:Strade Type: P
+2023-09-25 21:24:42,653:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:24:42,654:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,654:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,654:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,654:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,654:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,655:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,655:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,655:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,655:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,655:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,655:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,656:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,656:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:24:42,656:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,656:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:24:42,656:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:24:42,657:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,657:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:24:42,657:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,657:ERROR:__main__:No center strike leg found for order with ID: 38190348.
+2023-09-25 21:24:42,658:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,658:INFO:models.Strade:Strade Type: P
+2023-09-25 21:24:42,658:INFO:models.Strade:Strade Strike: 43400.0
+2023-09-25 21:24:42,658:INFO:models.Strade:Leg Option Symbol: SPXW230922P04340000
+2023-09-25 21:24:42,658:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,659:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:24:42,659:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,659:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,659:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,659:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:24:42,659:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,660:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:24:42,660:INFO:models.Strade:Leg Option Symbol: SPXW230922P04340000
+2023-09-25 21:24:42,660:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,660:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:24:42,660:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,660:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,661:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,662:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:24:42,662:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,662:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:24:42,662:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,663:ERROR:__main__:No center strike leg found for order with ID: 38195986.
+2023-09-25 21:24:42,663:ERROR:__main__:No center strike leg found for order with ID: 38196387.
+2023-09-25 21:24:42,663:ERROR:__main__:No center strike leg found for order with ID: 38196408.
+2023-09-25 21:24:42,664:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,664:INFO:models.Strade:Strade Type: C
+2023-09-25 21:24:42,664:INFO:models.Strade:Strade Strike: 43300.0
+2023-09-25 21:24:42,664:INFO:models.Strade:Leg Option Symbol: SPXW230922C04330000
+2023-09-25 21:24:42,664:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,664:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:24:42,665:INFO:models.Strade:Leg Option Symbol: SPXW230922C04340000
+2023-09-25 21:24:42,665:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,665:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:24:42,665:INFO:models.Strade:Leg Option Symbol: SPXW230922C04320000
+2023-09-25 21:24:42,665:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,665:INFO:models.Strade:Decoded Symbol Strike: 43200.0
+2023-09-25 21:24:42,666:INFO:models.Strade:Leg Option Symbol: SPXW230922C04330000
+2023-09-25 21:24:42,666:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,666:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:24:42,666:INFO:models.Strade:Leg Option Symbol: SPXW230922C04340000
+2023-09-25 21:24:42,666:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,667:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:24:42,667:INFO:models.Strade:Leg Option Symbol: SPXW230922C04320000
+2023-09-25 21:24:42,667:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,667:INFO:models.Strade:Decoded Symbol Strike: 43200.0
+2023-09-25 21:24:42,667:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,667:ERROR:__main__:No center strike leg found for order with ID: 38202462.
+2023-09-25 21:24:42,668:ERROR:__main__:No center strike leg found for order with ID: 38204123.
+2023-09-25 21:24:42,668:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,668:INFO:models.Strade:Strade Type: P
+2023-09-25 21:24:42,668:INFO:models.Strade:Strade Strike: 43200.0
+2023-09-25 21:24:42,669:INFO:models.Strade:Leg Option Symbol: SPXW230922P04320000
+2023-09-25 21:24:42,669:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,669:INFO:models.Strade:Decoded Symbol Strike: 43200.0
+2023-09-25 21:24:42,669:INFO:models.Strade:Leg Option Symbol: SPXW230922P04310000
+2023-09-25 21:24:42,669:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,669:INFO:models.Strade:Decoded Symbol Strike: 43100.0
+2023-09-25 21:24:42,670:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:24:42,670:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,670:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:24:42,670:INFO:models.Strade:Leg Option Symbol: SPXW230922P04320000
+2023-09-25 21:24:42,670:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,670:INFO:models.Strade:Decoded Symbol Strike: 43200.0
+2023-09-25 21:24:42,671:INFO:models.Strade:Leg Option Symbol: SPXW230922P04310000
+2023-09-25 21:24:42,671:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,671:INFO:models.Strade:Decoded Symbol Strike: 43100.0
+2023-09-25 21:24:42,672:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:24:42,672:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,672:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:24:42,672:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,672:ERROR:__main__:No center strike leg found for order with ID: 38206422.
+2023-09-25 21:24:42,673:ERROR:__main__:No center strike leg found for order with ID: 38206700.
+2023-09-25 21:24:42,673:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,673:INFO:models.Strade:Strade Type: P
+2023-09-25 21:24:42,673:INFO:models.Strade:Strade Strike: 43250.0
+2023-09-25 21:24:42,674:INFO:models.Strade:Leg Option Symbol: SPXW230922P04325000
+2023-09-25 21:24:42,674:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,674:INFO:models.Strade:Decoded Symbol Strike: 43250.0
+2023-09-25 21:24:42,674:INFO:models.Strade:Leg Option Symbol: SPXW230922P04315000
+2023-09-25 21:24:42,674:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,674:INFO:models.Strade:Decoded Symbol Strike: 43150.0
+2023-09-25 21:24:42,675:INFO:models.Strade:Leg Option Symbol: SPXW230922P04335000
+2023-09-25 21:24:42,675:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,675:INFO:models.Strade:Decoded Symbol Strike: 43350.0
+2023-09-25 21:24:42,675:INFO:models.Strade:Leg Option Symbol: SPXW230922P04325000
+2023-09-25 21:24:42,675:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,676:INFO:models.Strade:Decoded Symbol Strike: 43250.0
+2023-09-25 21:24:42,676:INFO:models.Strade:Leg Option Symbol: SPXW230922P04315000
+2023-09-25 21:24:42,676:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,676:INFO:models.Strade:Decoded Symbol Strike: 43150.0
+2023-09-25 21:24:42,676:INFO:models.Strade:Leg Option Symbol: SPXW230922P04335000
+2023-09-25 21:24:42,676:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,677:INFO:models.Strade:Decoded Symbol Strike: 43350.0
+2023-09-25 21:24:42,677:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,678:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,678:INFO:models.Strade:Strade Type: P
+2023-09-25 21:24:42,678:INFO:models.Strade:Strade Strike: 43400.0
+2023-09-25 21:24:42,678:INFO:models.Strade:Leg Option Symbol: SPXW230922P04340000
+2023-09-25 21:24:42,678:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,678:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:24:42,679:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,679:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,679:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,679:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:24:42,679:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,679:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:24:42,680:INFO:models.Strade:Leg Option Symbol: SPXW230922P04340000
+2023-09-25 21:24:42,680:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,680:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:24:42,680:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:24:42,680:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,680:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,681:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:24:42,681:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:24:42,681:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:24:42,681:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,682:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,682:INFO:models.Strade:Strade Type: C
+2023-09-25 21:24:42,682:INFO:models.Strade:Strade Strike: 43100.0
+2023-09-25 21:24:42,682:INFO:models.Strade:Leg Option Symbol: SPXW230922C04310000
+2023-09-25 21:24:42,682:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,682:INFO:models.Strade:Decoded Symbol Strike: 43100.0
+2023-09-25 21:24:42,683:INFO:models.Strade:Leg Option Symbol: SPXW230922C04315000
+2023-09-25 21:24:42,683:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,683:INFO:models.Strade:Decoded Symbol Strike: 43150.0
+2023-09-25 21:24:42,683:INFO:models.Strade:Leg Option Symbol: SPXW230922C04305000
+2023-09-25 21:24:42,683:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,683:INFO:models.Strade:Decoded Symbol Strike: 43050.0
+2023-09-25 21:24:42,684:INFO:models.Strade:Leg Option Symbol: SPXW230922C04310000
+2023-09-25 21:24:42,684:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,684:INFO:models.Strade:Decoded Symbol Strike: 43100.0
+2023-09-25 21:24:42,684:INFO:models.Strade:Leg Option Symbol: SPXW230922C04315000
+2023-09-25 21:24:42,684:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,684:INFO:models.Strade:Decoded Symbol Strike: 43150.0
+2023-09-25 21:24:42,685:INFO:models.Strade:Leg Option Symbol: SPXW230922C04305000
+2023-09-25 21:24:42,685:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,685:INFO:models.Strade:Decoded Symbol Strike: 43050.0
+2023-09-25 21:24:42,685:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,685:ERROR:__main__:No center strike leg found for order with ID: 38222319.
+2023-09-25 21:24:42,686:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:24:42,686:INFO:models.Strade:Strade Type: C
+2023-09-25 21:24:42,686:INFO:models.Strade:Strade Strike: 43500.0
+2023-09-25 21:24:42,686:INFO:models.Strade:Leg Option Symbol: SPXW230922C04350000
+2023-09-25 21:24:42,686:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,686:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,687:INFO:models.Strade:Leg Option Symbol: SPXW230922C04355000
+2023-09-25 21:24:42,687:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,687:INFO:models.Strade:Decoded Symbol Strike: 43550.0
+2023-09-25 21:24:42,687:INFO:models.Strade:Leg Option Symbol: SPXW230922C04345000
+2023-09-25 21:24:42,687:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,687:INFO:models.Strade:Decoded Symbol Strike: 43450.0
+2023-09-25 21:24:42,688:INFO:models.Strade:Leg Option Symbol: SPXW230922C04350000
+2023-09-25 21:24:42,688:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,688:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:24:42,688:INFO:models.Strade:Leg Option Symbol: SPXW230922C04355000
+2023-09-25 21:24:42,688:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,689:INFO:models.Strade:Decoded Symbol Strike: 43550.0
+2023-09-25 21:24:42,689:INFO:models.Strade:Leg Option Symbol: SPXW230922C04345000
+2023-09-25 21:24:42,689:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:24:42,689:INFO:models.Strade:Decoded Symbol Strike: 43450.0
+2023-09-25 21:24:42,689:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:24:42,690:ERROR:__main__:No center strike leg found for order with ID: 38231627.
+2023-09-25 21:24:42,690:ERROR:__main__:No center strike leg found for order with ID: 38231966.
+2023-09-25 21:24:42,690:ERROR:__main__:No center strike leg found for order with ID: 38233055.
+2023-09-25 21:25:03,438:INFO:__main__:Successfully parsed 8 butterflies.
+2023-09-25 21:25:15,573:ERROR:__main__:Error logging processed butterflies: 'Strade' object has no attribute 'order_id'
+2023-09-25 21:28:08,793:INFO:__main__:OrderID has: 38158035 Center strike leg: {'broker': 'Tradier', 'id': 38158037, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 1.7, 'avg_fill_price': 16.75, 'exec_quantity': 2.0, 'last_fill_price': 16.75, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T14:31:11.121Z', 'transaction_date': '2023-09-22T14:31:36.386Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:28:08,794:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:28:08,794:INFO:models.Strade:Strade Type: P
+2023-09-25 21:28:08,794:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:28:08,794:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:28:08,794:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:28:08,795:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:28:08,795:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:28:08,795:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:28:08,795:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:28:08,795:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:28:08,795:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:28:08,795:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:28:08,796:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:28:08,796:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:28:08,796:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:28:08,796:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:28:08,796:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:28:08,796:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:28:08,797:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:28:08,797:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:28:08,797:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:28:08,797:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:28:08,797:ERROR:__main__:Error parsing Tradier orders to Strade: 'Strade' object has no attribute 'order_id'
+2023-09-25 21:29:30,680:INFO:__main__:OrderID has: 38158035 Center strike leg: {'broker': 'Tradier', 'id': 38158037, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 1.7, 'avg_fill_price': 16.75, 'exec_quantity': 2.0, 'last_fill_price': 16.75, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T14:31:11.121Z', 'transaction_date': '2023-09-22T14:31:36.386Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:29:50,623:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:29:50,623:INFO:models.Strade:Strade Type: P
+2023-09-25 21:29:50,624:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:29:50,624:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:29:50,624:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:29:50,624:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:29:50,624:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:29:50,624:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:29:50,625:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:29:50,625:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:29:50,625:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:29:50,625:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:29:50,625:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:29:50,625:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:29:50,626:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:29:50,626:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:29:50,626:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:29:50,626:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:29:50,626:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:29:50,626:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:29:50,627:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:29:50,627:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:29:50,627:INFO:__main__:OrderID has: 38158719 Center strike leg: {'broker': 'Tradier', 'id': 38158721, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 1.15, 'avg_fill_price': 2.15, 'exec_quantity': 2.0, 'last_fill_price': 2.15, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T14:32:56.615Z', 'transaction_date': '2023-09-22T14:33:46.801Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04370000'}
+2023-09-25 21:30:03,799:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:03,799:INFO:models.Strade:Strade Type: C
+2023-09-25 21:30:03,799:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:30:03,800:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:30:03,800:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:03,800:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:03,800:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:30:03,800:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:03,800:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:03,801:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:30:03,801:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:03,801:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:30:03,801:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:30:03,801:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:03,801:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:03,802:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:30:03,802:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:03,802:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:03,802:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:30:03,802:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:03,802:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:30:03,803:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:03,803:INFO:__main__:OrderID has: 38159255 Center strike leg: {'broker': 'Tradier', 'id': 38159257, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 1.25, 'avg_fill_price': 2.25, 'exec_quantity': 2.0, 'last_fill_price': 2.25, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T14:35:24.115Z', 'transaction_date': '2023-09-22T14:37:14.733Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04370000'}
+2023-09-25 21:30:06,808:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,808:INFO:models.Strade:Strade Type: C
+2023-09-25 21:30:06,809:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:30:06,809:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:30:06,809:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,809:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,810:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:30:06,810:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,810:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,810:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:30:06,810:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,811:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:30:06,811:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:30:06,811:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,811:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,811:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:30:06,811:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,812:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,812:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:30:06,812:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,812:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:30:06,812:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,813:ERROR:__main__:No center strike leg found for order with ID: 38160327.
+2023-09-25 21:30:06,813:ERROR:__main__:No center strike leg found for order with ID: 38160487.
+2023-09-25 21:30:06,814:ERROR:__main__:No center strike leg found for order with ID: 38160602.
+2023-09-25 21:30:06,814:INFO:__main__:OrderID has: 38161189 Center strike leg: {'broker': 'Tradier', 'id': 38161191, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 4.0, 'status': 'filled', 'duration': 'day', 'price': 1.25, 'avg_fill_price': 2.07, 'exec_quantity': 4.0, 'last_fill_price': 2.07, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T14:44:41.857Z', 'transaction_date': '2023-09-22T14:45:21.145Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04370000'}
+2023-09-25 21:30:06,814:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,814:INFO:models.Strade:Strade Type: C
+2023-09-25 21:30:06,815:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:30:06,815:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:30:06,815:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,815:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,815:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:30:06,815:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,816:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,816:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:30:06,816:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,816:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:30:06,816:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:30:06,817:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,817:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,817:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:30:06,817:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,817:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,817:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:30:06,817:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,818:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:30:06,818:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,818:INFO:__main__:OrderID has: 38164430 Center strike leg: {'broker': 'Tradier', 'id': 38164432, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 4.0, 'status': 'filled', 'duration': 'day', 'price': 1.45, 'avg_fill_price': 2.07, 'exec_quantity': 4.0, 'last_fill_price': 2.07, 'last_fill_quantity': 4.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T14:55:43.271Z', 'transaction_date': '2023-09-22T14:55:44.859Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04370000'}
+2023-09-25 21:30:06,819:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,819:INFO:models.Strade:Strade Type: C
+2023-09-25 21:30:06,819:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:30:06,819:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:30:06,819:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,820:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,820:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:30:06,820:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,820:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,820:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:30:06,820:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,821:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:30:06,821:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:30:06,821:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,821:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,821:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:30:06,821:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,821:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,822:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:30:06,822:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,822:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:30:06,822:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,822:ERROR:__main__:No center strike leg found for order with ID: 38167219.
+2023-09-25 21:30:06,823:ERROR:__main__:No center strike leg found for order with ID: 38167523.
+2023-09-25 21:30:06,823:ERROR:__main__:No center strike leg found for order with ID: 38169272.
+2023-09-25 21:30:06,823:INFO:__main__:OrderID has: 38170709 Center strike leg: {'broker': 'Tradier', 'id': 38170711, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 4.0, 'status': 'filled', 'duration': 'day', 'price': 1.4, 'avg_fill_price': 1.57, 'exec_quantity': 4.0, 'last_fill_price': 1.57, 'last_fill_quantity': 4.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T15:18:39.745Z', 'transaction_date': '2023-09-22T15:18:53.382Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04370000'}
+2023-09-25 21:30:06,823:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,824:INFO:models.Strade:Strade Type: C
+2023-09-25 21:30:06,824:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:30:06,824:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:30:06,824:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,824:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,824:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:30:06,825:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,825:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,825:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:30:06,825:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,825:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:30:06,825:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:30:06,826:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,826:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,826:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:30:06,826:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,826:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,827:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:30:06,827:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,827:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:30:06,827:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,827:INFO:__main__:OrderID has: 38171460 Center strike leg: {'broker': 'Tradier', 'id': 38171462, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.2, 'avg_fill_price': 12.64, 'exec_quantity': 2.0, 'last_fill_price': 12.64, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T15:23:57.595Z', 'transaction_date': '2023-09-22T15:26:01.479Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:30:06,828:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,828:INFO:models.Strade:Strade Type: P
+2023-09-25 21:30:06,828:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:30:06,828:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,829:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,829:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,829:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,829:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,829:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,829:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,830:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,830:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,830:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,830:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,830:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,830:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,830:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,831:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,831:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,831:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,831:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,831:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,832:INFO:__main__:OrderID has: 38171987 Center strike leg: {'broker': 'Tradier', 'id': 38171989, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.2, 'avg_fill_price': 12.0, 'exec_quantity': 2.0, 'last_fill_price': 12.0, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T15:26:51.883Z', 'transaction_date': '2023-09-22T15:26:53.162Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:30:06,832:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,832:INFO:models.Strade:Strade Type: P
+2023-09-25 21:30:06,833:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:30:06,833:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,833:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,833:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,833:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,833:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,834:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,834:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,834:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,834:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,834:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,834:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,835:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,835:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,835:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,835:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,835:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,835:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,836:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,836:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,836:ERROR:__main__:No center strike leg found for order with ID: 38173797.
+2023-09-25 21:30:06,836:INFO:__main__:OrderID has: 38173814 Center strike leg: {'broker': 'Tradier', 'id': 38173816, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.4, 'avg_fill_price': 9.88, 'exec_quantity': 2.0, 'last_fill_price': 9.88, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T15:33:50.923Z', 'transaction_date': '2023-09-22T15:34:11.706Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:30:06,837:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,837:INFO:models.Strade:Strade Type: P
+2023-09-25 21:30:06,837:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:30:06,837:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,837:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,838:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,838:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,838:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,838:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,838:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,838:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,839:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,839:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,839:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,839:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,839:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,839:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,840:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,840:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,840:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,840:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,840:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,841:INFO:__main__:OrderID has: 38175684 Center strike leg: {'broker': 'Tradier', 'id': 38175686, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.4, 'avg_fill_price': 10.6, 'exec_quantity': 2.0, 'last_fill_price': 10.6, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T15:42:33.750Z', 'transaction_date': '2023-09-22T15:42:33.837Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:30:06,841:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,841:INFO:models.Strade:Strade Type: P
+2023-09-25 21:30:06,841:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:30:06,842:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,842:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,842:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,842:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,842:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,843:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,843:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,843:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,843:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,843:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,843:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,843:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,844:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,844:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,844:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,844:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,844:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,845:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,845:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,845:ERROR:__main__:No center strike leg found for order with ID: 38175832.
+2023-09-25 21:30:06,845:ERROR:__main__:No center strike leg found for order with ID: 38176040.
+2023-09-25 21:30:06,846:ERROR:__main__:No center strike leg found for order with ID: 38182284.
+2023-09-25 21:30:06,846:INFO:__main__:OrderID has: 38184526 Center strike leg: {'broker': 'Tradier', 'id': 38184528, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.0, 'avg_fill_price': 15.13, 'exec_quantity': 2.0, 'last_fill_price': 15.13, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T16:16:45.482Z', 'transaction_date': '2023-09-22T16:16:45.716Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:30:06,846:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,846:INFO:models.Strade:Strade Type: P
+2023-09-25 21:30:06,847:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:30:06,847:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,847:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,847:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,847:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,848:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,848:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,848:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,848:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,848:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,848:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,849:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,849:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,849:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,849:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,849:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,849:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,850:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,850:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,850:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,850:INFO:__main__:OrderID has: 38184548 Center strike leg: {'broker': 'Tradier', 'id': 38184550, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.0, 'avg_fill_price': 14.68, 'exec_quantity': 2.0, 'last_fill_price': 14.68, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T16:16:59.907Z', 'transaction_date': '2023-09-22T16:17:20.557Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:30:06,851:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,851:INFO:models.Strade:Strade Type: P
+2023-09-25 21:30:06,851:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:30:06,851:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,851:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,852:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,852:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,852:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,852:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,852:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,852:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,853:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,853:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,853:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,853:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,853:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,853:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,854:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,854:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,854:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,854:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,854:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,855:ERROR:__main__:No center strike leg found for order with ID: 38189514.
+2023-09-25 21:30:06,855:ERROR:__main__:No center strike leg found for order with ID: 38189533.
+2023-09-25 21:30:06,855:INFO:__main__:OrderID has: 38189808 Center strike leg: {'broker': 'Tradier', 'id': 38189810, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.4, 'avg_fill_price': 10.29, 'exec_quantity': 2.0, 'last_fill_price': 10.29, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T16:42:02.652Z', 'transaction_date': '2023-09-22T16:43:12.613Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:30:06,856:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,856:INFO:models.Strade:Strade Type: P
+2023-09-25 21:30:06,856:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:30:06,856:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,856:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,856:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,856:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,857:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,857:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,857:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,857:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,857:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,857:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,858:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,858:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,858:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:30:06,858:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,858:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:30:06,859:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:30:06,859:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,859:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:30:06,859:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,859:ERROR:__main__:No center strike leg found for order with ID: 38190348.
+2023-09-25 21:30:06,860:INFO:__main__:OrderID has: 38195598 Center strike leg: {'broker': 'Tradier', 'id': 38195599, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.1, 'avg_fill_price': 3.93, 'exec_quantity': 2.0, 'last_fill_price': 3.93, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T17:09:10.637Z', 'transaction_date': '2023-09-22T17:09:58.158Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04340000'}
+2023-09-25 21:30:06,860:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,860:INFO:models.Strade:Strade Type: P
+2023-09-25 21:30:06,860:INFO:models.Strade:Strade Strike: 43400.0
+2023-09-25 21:30:06,861:INFO:models.Strade:Leg Option Symbol: SPXW230922P04340000
+2023-09-25 21:30:06,861:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,861:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:30:06,861:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,861:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,862:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,862:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:30:06,862:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,862:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:30:06,862:INFO:models.Strade:Leg Option Symbol: SPXW230922P04340000
+2023-09-25 21:30:06,862:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,863:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:30:06,863:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,863:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,863:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,863:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:30:06,863:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,864:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:30:06,864:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,864:ERROR:__main__:No center strike leg found for order with ID: 38195986.
+2023-09-25 21:30:06,864:ERROR:__main__:No center strike leg found for order with ID: 38196387.
+2023-09-25 21:30:06,865:ERROR:__main__:No center strike leg found for order with ID: 38196408.
+2023-09-25 21:30:06,865:INFO:__main__:OrderID has: 38198284 Center strike leg: {'broker': 'Tradier', 'id': 38198285, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 1.9, 'avg_fill_price': 12.42, 'exec_quantity': 2.0, 'last_fill_price': 12.42, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T17:22:50.084Z', 'transaction_date': '2023-09-22T17:23:57.927Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04330000'}
+2023-09-25 21:30:06,865:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,865:INFO:models.Strade:Strade Type: C
+2023-09-25 21:30:06,866:INFO:models.Strade:Strade Strike: 43300.0
+2023-09-25 21:30:06,866:INFO:models.Strade:Leg Option Symbol: SPXW230922C04330000
+2023-09-25 21:30:06,866:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,866:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:30:06,866:INFO:models.Strade:Leg Option Symbol: SPXW230922C04340000
+2023-09-25 21:30:06,866:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,867:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:30:06,867:INFO:models.Strade:Leg Option Symbol: SPXW230922C04320000
+2023-09-25 21:30:06,867:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,867:INFO:models.Strade:Decoded Symbol Strike: 43200.0
+2023-09-25 21:30:06,867:INFO:models.Strade:Leg Option Symbol: SPXW230922C04330000
+2023-09-25 21:30:06,867:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,867:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:30:06,868:INFO:models.Strade:Leg Option Symbol: SPXW230922C04340000
+2023-09-25 21:30:06,868:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,868:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:30:06,868:INFO:models.Strade:Leg Option Symbol: SPXW230922C04320000
+2023-09-25 21:30:06,868:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,868:INFO:models.Strade:Decoded Symbol Strike: 43200.0
+2023-09-25 21:30:06,869:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,869:ERROR:__main__:No center strike leg found for order with ID: 38202462.
+2023-09-25 21:30:06,869:ERROR:__main__:No center strike leg found for order with ID: 38204123.
+2023-09-25 21:30:06,870:INFO:__main__:OrderID has: 38206232 Center strike leg: {'broker': 'Tradier', 'id': 38206233, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 4.0, 'status': 'filled', 'duration': 'day', 'price': 1.6, 'avg_fill_price': 3.5, 'exec_quantity': 4.0, 'last_fill_price': 3.5, 'last_fill_quantity': 4.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T17:49:34.385Z', 'transaction_date': '2023-09-22T17:49:48.150Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04320000'}
+2023-09-25 21:30:06,870:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,870:INFO:models.Strade:Strade Type: P
+2023-09-25 21:30:06,870:INFO:models.Strade:Strade Strike: 43200.0
+2023-09-25 21:30:06,870:INFO:models.Strade:Leg Option Symbol: SPXW230922P04320000
+2023-09-25 21:30:06,871:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,871:INFO:models.Strade:Decoded Symbol Strike: 43200.0
+2023-09-25 21:30:06,871:INFO:models.Strade:Leg Option Symbol: SPXW230922P04310000
+2023-09-25 21:30:06,871:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,871:INFO:models.Strade:Decoded Symbol Strike: 43100.0
+2023-09-25 21:30:06,871:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:30:06,872:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,872:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:30:06,872:INFO:models.Strade:Leg Option Symbol: SPXW230922P04320000
+2023-09-25 21:30:06,872:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,872:INFO:models.Strade:Decoded Symbol Strike: 43200.0
+2023-09-25 21:30:06,872:INFO:models.Strade:Leg Option Symbol: SPXW230922P04310000
+2023-09-25 21:30:06,872:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,873:INFO:models.Strade:Decoded Symbol Strike: 43100.0
+2023-09-25 21:30:06,873:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:30:06,873:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,873:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:30:06,873:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,874:ERROR:__main__:No center strike leg found for order with ID: 38206422.
+2023-09-25 21:30:06,874:ERROR:__main__:No center strike leg found for order with ID: 38206700.
+2023-09-25 21:30:06,874:INFO:__main__:OrderID has: 38207991 Center strike leg: {'broker': 'Tradier', 'id': 38207992, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 4.0, 'status': 'filled', 'duration': 'day', 'price': 1.95, 'avg_fill_price': 3.74, 'exec_quantity': 4.0, 'last_fill_price': 3.74, 'last_fill_quantity': 4.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T17:58:53.251Z', 'transaction_date': '2023-09-22T18:02:31.846Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04325000'}
+2023-09-25 21:30:06,875:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,875:INFO:models.Strade:Strade Type: P
+2023-09-25 21:30:06,875:INFO:models.Strade:Strade Strike: 43250.0
+2023-09-25 21:30:06,876:INFO:models.Strade:Leg Option Symbol: SPXW230922P04325000
+2023-09-25 21:30:06,876:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,876:INFO:models.Strade:Decoded Symbol Strike: 43250.0
+2023-09-25 21:30:06,876:INFO:models.Strade:Leg Option Symbol: SPXW230922P04315000
+2023-09-25 21:30:06,876:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,876:INFO:models.Strade:Decoded Symbol Strike: 43150.0
+2023-09-25 21:30:06,877:INFO:models.Strade:Leg Option Symbol: SPXW230922P04335000
+2023-09-25 21:30:06,877:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,877:INFO:models.Strade:Decoded Symbol Strike: 43350.0
+2023-09-25 21:30:06,877:INFO:models.Strade:Leg Option Symbol: SPXW230922P04325000
+2023-09-25 21:30:06,877:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,877:INFO:models.Strade:Decoded Symbol Strike: 43250.0
+2023-09-25 21:30:06,878:INFO:models.Strade:Leg Option Symbol: SPXW230922P04315000
+2023-09-25 21:30:06,878:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,878:INFO:models.Strade:Decoded Symbol Strike: 43150.0
+2023-09-25 21:30:06,878:INFO:models.Strade:Leg Option Symbol: SPXW230922P04335000
+2023-09-25 21:30:06,878:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,879:INFO:models.Strade:Decoded Symbol Strike: 43350.0
+2023-09-25 21:30:06,879:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,879:INFO:__main__:OrderID has: 38210791 Center strike leg: {'broker': 'Tradier', 'id': 38210792, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'canceled', 'duration': 'day', 'price': 1.0, 'avg_fill_price': 0.0, 'exec_quantity': 0.0, 'last_fill_price': 0.0, 'last_fill_quantity': 0.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T18:11:50.804Z', 'transaction_date': '2023-09-22T18:17:55.471Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04340000'}
+2023-09-25 21:30:06,880:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,880:INFO:models.Strade:Strade Type: P
+2023-09-25 21:30:06,880:INFO:models.Strade:Strade Strike: 43400.0
+2023-09-25 21:30:06,880:INFO:models.Strade:Leg Option Symbol: SPXW230922P04340000
+2023-09-25 21:30:06,881:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,881:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:30:06,881:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,881:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,881:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,882:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:30:06,882:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,882:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:30:06,882:INFO:models.Strade:Leg Option Symbol: SPXW230922P04340000
+2023-09-25 21:30:06,882:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,882:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:30:06,883:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:30:06,883:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,883:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,883:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:30:06,883:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:30:06,883:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:30:06,883:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,884:INFO:__main__:OrderID has: 38211319 Center strike leg: {'broker': 'Tradier', 'id': 38211320, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 8.0, 'status': 'filled', 'duration': 'day', 'price': 0.35, 'avg_fill_price': 17.68, 'exec_quantity': 8.0, 'last_fill_price': 17.68, 'last_fill_quantity': 8.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T18:14:23.000Z', 'transaction_date': '2023-09-22T18:15:51.112Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04310000'}
+2023-09-25 21:30:06,885:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,885:INFO:models.Strade:Strade Type: C
+2023-09-25 21:30:06,885:INFO:models.Strade:Strade Strike: 43100.0
+2023-09-25 21:30:06,885:INFO:models.Strade:Leg Option Symbol: SPXW230922C04310000
+2023-09-25 21:30:06,885:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,886:INFO:models.Strade:Decoded Symbol Strike: 43100.0
+2023-09-25 21:30:06,886:INFO:models.Strade:Leg Option Symbol: SPXW230922C04315000
+2023-09-25 21:30:06,886:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,886:INFO:models.Strade:Decoded Symbol Strike: 43150.0
+2023-09-25 21:30:06,886:INFO:models.Strade:Leg Option Symbol: SPXW230922C04305000
+2023-09-25 21:30:06,886:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,886:INFO:models.Strade:Decoded Symbol Strike: 43050.0
+2023-09-25 21:30:06,887:INFO:models.Strade:Leg Option Symbol: SPXW230922C04310000
+2023-09-25 21:30:06,887:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,887:INFO:models.Strade:Decoded Symbol Strike: 43100.0
+2023-09-25 21:30:06,887:INFO:models.Strade:Leg Option Symbol: SPXW230922C04315000
+2023-09-25 21:30:06,887:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,887:INFO:models.Strade:Decoded Symbol Strike: 43150.0
+2023-09-25 21:30:06,888:INFO:models.Strade:Leg Option Symbol: SPXW230922C04305000
+2023-09-25 21:30:06,888:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,888:INFO:models.Strade:Decoded Symbol Strike: 43050.0
+2023-09-25 21:30:06,888:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,889:ERROR:__main__:No center strike leg found for order with ID: 38222319.
+2023-09-25 21:30:06,889:INFO:__main__:OrderID has: 38226722 Center strike leg: {'broker': 'Tradier', 'id': 38226723, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 4.0, 'status': 'canceled', 'duration': 'day', 'price': 0.6, 'avg_fill_price': 0.0, 'exec_quantity': 0.0, 'last_fill_price': 0.0, 'last_fill_quantity': 0.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T19:28:37.423Z', 'transaction_date': '2023-09-22T19:32:28.981Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04350000'}
+2023-09-25 21:30:06,890:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:30:06,890:INFO:models.Strade:Strade Type: C
+2023-09-25 21:30:06,890:INFO:models.Strade:Strade Strike: 43500.0
+2023-09-25 21:30:06,890:INFO:models.Strade:Leg Option Symbol: SPXW230922C04350000
+2023-09-25 21:30:06,890:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,891:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,891:INFO:models.Strade:Leg Option Symbol: SPXW230922C04355000
+2023-09-25 21:30:06,891:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,891:INFO:models.Strade:Decoded Symbol Strike: 43550.0
+2023-09-25 21:30:06,891:INFO:models.Strade:Leg Option Symbol: SPXW230922C04345000
+2023-09-25 21:30:06,891:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,892:INFO:models.Strade:Decoded Symbol Strike: 43450.0
+2023-09-25 21:30:06,892:INFO:models.Strade:Leg Option Symbol: SPXW230922C04350000
+2023-09-25 21:30:06,892:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,892:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:30:06,892:INFO:models.Strade:Leg Option Symbol: SPXW230922C04355000
+2023-09-25 21:30:06,892:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,893:INFO:models.Strade:Decoded Symbol Strike: 43550.0
+2023-09-25 21:30:06,893:INFO:models.Strade:Leg Option Symbol: SPXW230922C04345000
+2023-09-25 21:30:06,893:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:30:06,893:INFO:models.Strade:Decoded Symbol Strike: 43450.0
+2023-09-25 21:30:06,893:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:30:06,894:ERROR:__main__:No center strike leg found for order with ID: 38231627.
+2023-09-25 21:30:06,894:ERROR:__main__:No center strike leg found for order with ID: 38231966.
+2023-09-25 21:30:06,895:ERROR:__main__:No center strike leg found for order with ID: 38233055.
+2023-09-25 21:31:11,540:INFO:__main__:OrderID has: 38158035 Center strike leg: {'broker': 'Tradier', 'id': 38158037, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 1.7, 'avg_fill_price': 16.75, 'exec_quantity': 2.0, 'last_fill_price': 16.75, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T14:31:11.121Z', 'transaction_date': '2023-09-22T14:31:36.386Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:31:11,541:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,541:INFO:models.Strade:Strade Type: P
+2023-09-25 21:31:11,541:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:31:11,542:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,542:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,542:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,542:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,542:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,542:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,543:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,543:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,543:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,543:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,543:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,544:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,544:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,544:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,544:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,544:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,545:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,545:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,545:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,545:INFO:__main__:OrderID has: 38158719 Center strike leg: {'broker': 'Tradier', 'id': 38158721, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 1.15, 'avg_fill_price': 2.15, 'exec_quantity': 2.0, 'last_fill_price': 2.15, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T14:32:56.615Z', 'transaction_date': '2023-09-22T14:33:46.801Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04370000'}
+2023-09-25 21:31:11,546:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,546:INFO:models.Strade:Strade Type: C
+2023-09-25 21:31:11,546:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:31:11,546:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:31:11,546:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,547:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,547:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:31:11,547:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,547:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,547:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:31:11,548:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,548:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:31:11,548:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:31:11,548:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,548:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,548:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:31:11,549:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,549:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,549:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:31:11,549:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,549:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:31:11,549:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,550:INFO:__main__:OrderID has: 38159255 Center strike leg: {'broker': 'Tradier', 'id': 38159257, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 1.25, 'avg_fill_price': 2.25, 'exec_quantity': 2.0, 'last_fill_price': 2.25, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T14:35:24.115Z', 'transaction_date': '2023-09-22T14:37:14.733Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04370000'}
+2023-09-25 21:31:11,550:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,551:INFO:models.Strade:Strade Type: C
+2023-09-25 21:31:11,551:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:31:11,551:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:31:11,551:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,551:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,551:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:31:11,552:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,552:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,552:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:31:11,552:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,552:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:31:11,552:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:31:11,552:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,553:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,553:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:31:11,553:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,553:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,553:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:31:11,553:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,554:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:31:11,554:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,554:ERROR:__main__:No center strike leg found for order with ID: 38160327.
+2023-09-25 21:31:11,554:ERROR:__main__:No center strike leg found for order with ID: 38160487.
+2023-09-25 21:31:11,555:ERROR:__main__:No center strike leg found for order with ID: 38160602.
+2023-09-25 21:31:11,555:INFO:__main__:OrderID has: 38161189 Center strike leg: {'broker': 'Tradier', 'id': 38161191, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 4.0, 'status': 'filled', 'duration': 'day', 'price': 1.25, 'avg_fill_price': 2.07, 'exec_quantity': 4.0, 'last_fill_price': 2.07, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T14:44:41.857Z', 'transaction_date': '2023-09-22T14:45:21.145Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04370000'}
+2023-09-25 21:31:11,555:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,555:INFO:models.Strade:Strade Type: C
+2023-09-25 21:31:11,556:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:31:11,556:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:31:11,556:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,556:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,556:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:31:11,556:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,557:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,557:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:31:11,557:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,557:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:31:11,557:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:31:11,557:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,558:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,558:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:31:11,558:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,558:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,558:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:31:11,558:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,558:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:31:11,559:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,559:INFO:__main__:OrderID has: 38164430 Center strike leg: {'broker': 'Tradier', 'id': 38164432, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 4.0, 'status': 'filled', 'duration': 'day', 'price': 1.45, 'avg_fill_price': 2.07, 'exec_quantity': 4.0, 'last_fill_price': 2.07, 'last_fill_quantity': 4.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T14:55:43.271Z', 'transaction_date': '2023-09-22T14:55:44.859Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04370000'}
+2023-09-25 21:31:11,559:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,560:INFO:models.Strade:Strade Type: C
+2023-09-25 21:31:11,560:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:31:11,560:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:31:11,560:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,560:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,561:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:31:11,561:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,561:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,561:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:31:11,561:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,562:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:31:11,562:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:31:11,562:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,562:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,562:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:31:11,562:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,563:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,563:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:31:11,563:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,563:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:31:11,563:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,564:ERROR:__main__:No center strike leg found for order with ID: 38167219.
+2023-09-25 21:31:11,564:ERROR:__main__:No center strike leg found for order with ID: 38167523.
+2023-09-25 21:31:11,564:ERROR:__main__:No center strike leg found for order with ID: 38169272.
+2023-09-25 21:31:11,564:INFO:__main__:OrderID has: 38170709 Center strike leg: {'broker': 'Tradier', 'id': 38170711, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 4.0, 'status': 'filled', 'duration': 'day', 'price': 1.4, 'avg_fill_price': 1.57, 'exec_quantity': 4.0, 'last_fill_price': 1.57, 'last_fill_quantity': 4.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T15:18:39.745Z', 'transaction_date': '2023-09-22T15:18:53.382Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04370000'}
+2023-09-25 21:31:11,565:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,565:INFO:models.Strade:Strade Type: C
+2023-09-25 21:31:11,565:INFO:models.Strade:Strade Strike: 43700.0
+2023-09-25 21:31:11,565:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:31:11,565:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,566:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,566:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:31:11,566:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,566:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,566:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:31:11,566:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,567:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:31:11,567:INFO:models.Strade:Leg Option Symbol: SPXW230922C04360000
+2023-09-25 21:31:11,567:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,567:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,567:INFO:models.Strade:Leg Option Symbol: SPXW230922C04370000
+2023-09-25 21:31:11,567:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,567:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,568:INFO:models.Strade:Leg Option Symbol: SPXW230922C04380000
+2023-09-25 21:31:11,568:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,568:INFO:models.Strade:Decoded Symbol Strike: 43800.0
+2023-09-25 21:31:11,568:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,568:INFO:__main__:OrderID has: 38171460 Center strike leg: {'broker': 'Tradier', 'id': 38171462, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.2, 'avg_fill_price': 12.64, 'exec_quantity': 2.0, 'last_fill_price': 12.64, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T15:23:57.595Z', 'transaction_date': '2023-09-22T15:26:01.479Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:31:11,569:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,569:INFO:models.Strade:Strade Type: P
+2023-09-25 21:31:11,569:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:31:11,569:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,570:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,570:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,570:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,570:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,570:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,570:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,571:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,571:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,571:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,571:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,571:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,571:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,571:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,572:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,572:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,572:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,572:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,572:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,573:INFO:__main__:OrderID has: 38171987 Center strike leg: {'broker': 'Tradier', 'id': 38171989, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.2, 'avg_fill_price': 12.0, 'exec_quantity': 2.0, 'last_fill_price': 12.0, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T15:26:51.883Z', 'transaction_date': '2023-09-22T15:26:53.162Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:31:11,573:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,573:INFO:models.Strade:Strade Type: P
+2023-09-25 21:31:11,573:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:31:11,574:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,574:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,574:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,574:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,574:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,574:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,575:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,575:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,575:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,575:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,575:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,575:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,576:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,576:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,576:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,576:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,576:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,576:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,577:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,577:ERROR:__main__:No center strike leg found for order with ID: 38173797.
+2023-09-25 21:31:11,577:INFO:__main__:OrderID has: 38173814 Center strike leg: {'broker': 'Tradier', 'id': 38173816, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.4, 'avg_fill_price': 9.88, 'exec_quantity': 2.0, 'last_fill_price': 9.88, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T15:33:50.923Z', 'transaction_date': '2023-09-22T15:34:11.706Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:31:11,578:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,578:INFO:models.Strade:Strade Type: P
+2023-09-25 21:31:11,578:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:31:11,578:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,578:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,579:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,579:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,579:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,579:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,579:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,580:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,580:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,580:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,580:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,580:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,580:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,581:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,581:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,581:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,581:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,581:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,582:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,582:INFO:__main__:OrderID has: 38175684 Center strike leg: {'broker': 'Tradier', 'id': 38175686, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.4, 'avg_fill_price': 10.6, 'exec_quantity': 2.0, 'last_fill_price': 10.6, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T15:42:33.750Z', 'transaction_date': '2023-09-22T15:42:33.837Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:31:11,582:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,583:INFO:models.Strade:Strade Type: P
+2023-09-25 21:31:11,583:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:31:11,583:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,583:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,583:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,583:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,584:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,584:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,584:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,584:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,584:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,584:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,584:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,585:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,585:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,585:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,585:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,585:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,585:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,586:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,586:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,586:ERROR:__main__:No center strike leg found for order with ID: 38175832.
+2023-09-25 21:31:11,586:ERROR:__main__:No center strike leg found for order with ID: 38176040.
+2023-09-25 21:31:11,587:ERROR:__main__:No center strike leg found for order with ID: 38182284.
+2023-09-25 21:31:11,587:INFO:__main__:OrderID has: 38184526 Center strike leg: {'broker': 'Tradier', 'id': 38184528, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.0, 'avg_fill_price': 15.13, 'exec_quantity': 2.0, 'last_fill_price': 15.13, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T16:16:45.482Z', 'transaction_date': '2023-09-22T16:16:45.716Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:31:11,587:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,587:INFO:models.Strade:Strade Type: P
+2023-09-25 21:31:11,588:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:31:11,588:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,588:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,588:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,588:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,588:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,589:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,589:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,589:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,589:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,589:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,589:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,589:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,590:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,590:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,590:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,590:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,590:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,591:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,591:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,591:INFO:__main__:OrderID has: 38184548 Center strike leg: {'broker': 'Tradier', 'id': 38184550, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.0, 'avg_fill_price': 14.68, 'exec_quantity': 2.0, 'last_fill_price': 14.68, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T16:16:59.907Z', 'transaction_date': '2023-09-22T16:17:20.557Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:31:11,592:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,592:INFO:models.Strade:Strade Type: P
+2023-09-25 21:31:11,592:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:31:11,592:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,592:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,592:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,592:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,593:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,593:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,593:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,593:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,593:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,593:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,594:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,594:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,594:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,594:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,594:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,594:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,595:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,595:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,595:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,595:ERROR:__main__:No center strike leg found for order with ID: 38189514.
+2023-09-25 21:31:11,596:ERROR:__main__:No center strike leg found for order with ID: 38189533.
+2023-09-25 21:31:11,596:INFO:__main__:OrderID has: 38189808 Center strike leg: {'broker': 'Tradier', 'id': 38189810, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.4, 'avg_fill_price': 10.29, 'exec_quantity': 2.0, 'last_fill_price': 10.29, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T16:42:02.652Z', 'transaction_date': '2023-09-22T16:43:12.613Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04360000'}
+2023-09-25 21:31:11,596:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,596:INFO:models.Strade:Strade Type: P
+2023-09-25 21:31:11,597:INFO:models.Strade:Strade Strike: 43600.0
+2023-09-25 21:31:11,597:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,597:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,597:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,597:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,598:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,598:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,598:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,598:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,598:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,598:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,598:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,599:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,599:INFO:models.Strade:Leg Option Symbol: SPXW230922P04360000
+2023-09-25 21:31:11,599:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,599:INFO:models.Strade:Decoded Symbol Strike: 43600.0
+2023-09-25 21:31:11,599:INFO:models.Strade:Leg Option Symbol: SPXW230922P04370000
+2023-09-25 21:31:11,599:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,600:INFO:models.Strade:Decoded Symbol Strike: 43700.0
+2023-09-25 21:31:11,600:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,600:ERROR:__main__:No center strike leg found for order with ID: 38190348.
+2023-09-25 21:31:11,600:INFO:__main__:OrderID has: 38195598 Center strike leg: {'broker': 'Tradier', 'id': 38195599, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 2.1, 'avg_fill_price': 3.93, 'exec_quantity': 2.0, 'last_fill_price': 3.93, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T17:09:10.637Z', 'transaction_date': '2023-09-22T17:09:58.158Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04340000'}
+2023-09-25 21:31:11,601:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,601:INFO:models.Strade:Strade Type: P
+2023-09-25 21:31:11,601:INFO:models.Strade:Strade Strike: 43400.0
+2023-09-25 21:31:11,601:INFO:models.Strade:Leg Option Symbol: SPXW230922P04340000
+2023-09-25 21:31:11,601:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,602:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:31:11,602:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,602:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,602:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,602:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:31:11,602:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,602:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:31:11,603:INFO:models.Strade:Leg Option Symbol: SPXW230922P04340000
+2023-09-25 21:31:11,603:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,603:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:31:11,603:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,603:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,603:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,604:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:31:11,604:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,604:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:31:11,604:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,605:ERROR:__main__:No center strike leg found for order with ID: 38195986.
+2023-09-25 21:31:11,605:ERROR:__main__:No center strike leg found for order with ID: 38196387.
+2023-09-25 21:31:11,605:ERROR:__main__:No center strike leg found for order with ID: 38196408.
+2023-09-25 21:31:11,605:INFO:__main__:OrderID has: 38198284 Center strike leg: {'broker': 'Tradier', 'id': 38198285, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'filled', 'duration': 'day', 'price': 1.9, 'avg_fill_price': 12.42, 'exec_quantity': 2.0, 'last_fill_price': 12.42, 'last_fill_quantity': 2.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T17:22:50.084Z', 'transaction_date': '2023-09-22T17:23:57.927Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04330000'}
+2023-09-25 21:31:11,606:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,606:INFO:models.Strade:Strade Type: C
+2023-09-25 21:31:11,606:INFO:models.Strade:Strade Strike: 43300.0
+2023-09-25 21:31:11,606:INFO:models.Strade:Leg Option Symbol: SPXW230922C04330000
+2023-09-25 21:31:11,607:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,607:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:31:11,607:INFO:models.Strade:Leg Option Symbol: SPXW230922C04340000
+2023-09-25 21:31:11,607:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,607:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:31:11,607:INFO:models.Strade:Leg Option Symbol: SPXW230922C04320000
+2023-09-25 21:31:11,608:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,608:INFO:models.Strade:Decoded Symbol Strike: 43200.0
+2023-09-25 21:31:11,608:INFO:models.Strade:Leg Option Symbol: SPXW230922C04330000
+2023-09-25 21:31:11,608:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,608:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:31:11,608:INFO:models.Strade:Leg Option Symbol: SPXW230922C04340000
+2023-09-25 21:31:11,609:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,609:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:31:11,609:INFO:models.Strade:Leg Option Symbol: SPXW230922C04320000
+2023-09-25 21:31:11,609:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,609:INFO:models.Strade:Decoded Symbol Strike: 43200.0
+2023-09-25 21:31:11,609:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,610:ERROR:__main__:No center strike leg found for order with ID: 38202462.
+2023-09-25 21:31:11,610:ERROR:__main__:No center strike leg found for order with ID: 38204123.
+2023-09-25 21:31:11,610:INFO:__main__:OrderID has: 38206232 Center strike leg: {'broker': 'Tradier', 'id': 38206233, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 4.0, 'status': 'filled', 'duration': 'day', 'price': 1.6, 'avg_fill_price': 3.5, 'exec_quantity': 4.0, 'last_fill_price': 3.5, 'last_fill_quantity': 4.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T17:49:34.385Z', 'transaction_date': '2023-09-22T17:49:48.150Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04320000'}
+2023-09-25 21:31:11,611:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,611:INFO:models.Strade:Strade Type: P
+2023-09-25 21:31:11,611:INFO:models.Strade:Strade Strike: 43200.0
+2023-09-25 21:31:11,611:INFO:models.Strade:Leg Option Symbol: SPXW230922P04320000
+2023-09-25 21:31:11,612:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,612:INFO:models.Strade:Decoded Symbol Strike: 43200.0
+2023-09-25 21:31:11,612:INFO:models.Strade:Leg Option Symbol: SPXW230922P04310000
+2023-09-25 21:31:11,612:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,612:INFO:models.Strade:Decoded Symbol Strike: 43100.0
+2023-09-25 21:31:11,612:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:31:11,613:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,613:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:31:11,613:INFO:models.Strade:Leg Option Symbol: SPXW230922P04320000
+2023-09-25 21:31:11,613:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,613:INFO:models.Strade:Decoded Symbol Strike: 43200.0
+2023-09-25 21:31:11,614:INFO:models.Strade:Leg Option Symbol: SPXW230922P04310000
+2023-09-25 21:31:11,614:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,614:INFO:models.Strade:Decoded Symbol Strike: 43100.0
+2023-09-25 21:31:11,614:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:31:11,614:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,614:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:31:11,615:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,615:ERROR:__main__:No center strike leg found for order with ID: 38206422.
+2023-09-25 21:31:11,615:ERROR:__main__:No center strike leg found for order with ID: 38206700.
+2023-09-25 21:31:11,616:INFO:__main__:OrderID has: 38207991 Center strike leg: {'broker': 'Tradier', 'id': 38207992, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 4.0, 'status': 'filled', 'duration': 'day', 'price': 1.95, 'avg_fill_price': 3.74, 'exec_quantity': 4.0, 'last_fill_price': 3.74, 'last_fill_quantity': 4.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T17:58:53.251Z', 'transaction_date': '2023-09-22T18:02:31.846Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04325000'}
+2023-09-25 21:31:11,616:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,616:INFO:models.Strade:Strade Type: P
+2023-09-25 21:31:11,616:INFO:models.Strade:Strade Strike: 43250.0
+2023-09-25 21:31:11,617:INFO:models.Strade:Leg Option Symbol: SPXW230922P04325000
+2023-09-25 21:31:11,617:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,617:INFO:models.Strade:Decoded Symbol Strike: 43250.0
+2023-09-25 21:31:11,617:INFO:models.Strade:Leg Option Symbol: SPXW230922P04315000
+2023-09-25 21:31:11,617:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,617:INFO:models.Strade:Decoded Symbol Strike: 43150.0
+2023-09-25 21:31:11,618:INFO:models.Strade:Leg Option Symbol: SPXW230922P04335000
+2023-09-25 21:31:11,618:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,618:INFO:models.Strade:Decoded Symbol Strike: 43350.0
+2023-09-25 21:31:11,618:INFO:models.Strade:Leg Option Symbol: SPXW230922P04325000
+2023-09-25 21:31:11,618:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,618:INFO:models.Strade:Decoded Symbol Strike: 43250.0
+2023-09-25 21:31:11,619:INFO:models.Strade:Leg Option Symbol: SPXW230922P04315000
+2023-09-25 21:31:11,619:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,619:INFO:models.Strade:Decoded Symbol Strike: 43150.0
+2023-09-25 21:31:11,619:INFO:models.Strade:Leg Option Symbol: SPXW230922P04335000
+2023-09-25 21:31:11,619:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,619:INFO:models.Strade:Decoded Symbol Strike: 43350.0
+2023-09-25 21:31:11,619:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,620:INFO:__main__:OrderID has: 38210791 Center strike leg: {'broker': 'Tradier', 'id': 38210792, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 2.0, 'status': 'canceled', 'duration': 'day', 'price': 1.0, 'avg_fill_price': 0.0, 'exec_quantity': 0.0, 'last_fill_price': 0.0, 'last_fill_quantity': 0.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T18:11:50.804Z', 'transaction_date': '2023-09-22T18:17:55.471Z', 'class_name': 'option', 'option_symbol': 'SPXW230922P04340000'}
+2023-09-25 21:31:11,621:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,621:INFO:models.Strade:Strade Type: P
+2023-09-25 21:31:11,621:INFO:models.Strade:Strade Strike: 43400.0
+2023-09-25 21:31:11,621:INFO:models.Strade:Leg Option Symbol: SPXW230922P04340000
+2023-09-25 21:31:11,621:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,622:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:31:11,622:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,622:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,622:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,622:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:31:11,622:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,622:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:31:11,623:INFO:models.Strade:Leg Option Symbol: SPXW230922P04340000
+2023-09-25 21:31:11,623:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,623:INFO:models.Strade:Decoded Symbol Strike: 43400.0
+2023-09-25 21:31:11,623:INFO:models.Strade:Leg Option Symbol: SPXW230922P04350000
+2023-09-25 21:31:11,623:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,623:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,624:INFO:models.Strade:Leg Option Symbol: SPXW230922P04330000
+2023-09-25 21:31:11,624:INFO:models.Strade:Decoded Symbol Type: P
+2023-09-25 21:31:11,624:INFO:models.Strade:Decoded Symbol Strike: 43300.0
+2023-09-25 21:31:11,624:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,625:INFO:__main__:OrderID has: 38211319 Center strike leg: {'broker': 'Tradier', 'id': 38211320, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 8.0, 'status': 'filled', 'duration': 'day', 'price': 0.35, 'avg_fill_price': 17.68, 'exec_quantity': 8.0, 'last_fill_price': 17.68, 'last_fill_quantity': 8.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T18:14:23.000Z', 'transaction_date': '2023-09-22T18:15:51.112Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04310000'}
+2023-09-25 21:31:11,625:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,625:INFO:models.Strade:Strade Type: C
+2023-09-25 21:31:11,625:INFO:models.Strade:Strade Strike: 43100.0
+2023-09-25 21:31:11,626:INFO:models.Strade:Leg Option Symbol: SPXW230922C04310000
+2023-09-25 21:31:11,626:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,626:INFO:models.Strade:Decoded Symbol Strike: 43100.0
+2023-09-25 21:31:11,626:INFO:models.Strade:Leg Option Symbol: SPXW230922C04315000
+2023-09-25 21:31:11,626:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,626:INFO:models.Strade:Decoded Symbol Strike: 43150.0
+2023-09-25 21:31:11,627:INFO:models.Strade:Leg Option Symbol: SPXW230922C04305000
+2023-09-25 21:31:11,627:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,627:INFO:models.Strade:Decoded Symbol Strike: 43050.0
+2023-09-25 21:31:11,627:INFO:models.Strade:Leg Option Symbol: SPXW230922C04310000
+2023-09-25 21:31:11,627:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,627:INFO:models.Strade:Decoded Symbol Strike: 43100.0
+2023-09-25 21:31:11,628:INFO:models.Strade:Leg Option Symbol: SPXW230922C04315000
+2023-09-25 21:31:11,628:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,628:INFO:models.Strade:Decoded Symbol Strike: 43150.0
+2023-09-25 21:31:11,628:INFO:models.Strade:Leg Option Symbol: SPXW230922C04305000
+2023-09-25 21:31:11,628:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,629:INFO:models.Strade:Decoded Symbol Strike: 43050.0
+2023-09-25 21:31:11,629:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,630:ERROR:__main__:No center strike leg found for order with ID: 38222319.
+2023-09-25 21:31:11,630:INFO:__main__:OrderID has: 38226722 Center strike leg: {'broker': 'Tradier', 'id': 38226723, 'parent_id': None, 'type': 'debit', 'symbol': 'SPX', 'side': 'sell_to_open', 'quantity': 4.0, 'status': 'canceled', 'duration': 'day', 'price': 0.6, 'avg_fill_price': 0.0, 'exec_quantity': 0.0, 'last_fill_price': 0.0, 'last_fill_quantity': 0.0, 'remaining_quantity': 0.0, 'create_date': '2023-09-22T19:28:37.423Z', 'transaction_date': '2023-09-22T19:32:28.981Z', 'class_name': 'option', 'option_symbol': 'SPXW230922C04350000'}
+2023-09-25 21:31:11,630:INFO:models.Strade:=== Debugging Start ===
+2023-09-25 21:31:11,630:INFO:models.Strade:Strade Type: C
+2023-09-25 21:31:11,631:INFO:models.Strade:Strade Strike: 43500.0
+2023-09-25 21:31:11,631:INFO:models.Strade:Leg Option Symbol: SPXW230922C04350000
+2023-09-25 21:31:11,631:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,631:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,631:INFO:models.Strade:Leg Option Symbol: SPXW230922C04355000
+2023-09-25 21:31:11,631:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,632:INFO:models.Strade:Decoded Symbol Strike: 43550.0
+2023-09-25 21:31:11,632:INFO:models.Strade:Leg Option Symbol: SPXW230922C04345000
+2023-09-25 21:31:11,632:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,632:INFO:models.Strade:Decoded Symbol Strike: 43450.0
+2023-09-25 21:31:11,632:INFO:models.Strade:Leg Option Symbol: SPXW230922C04350000
+2023-09-25 21:31:11,632:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,633:INFO:models.Strade:Decoded Symbol Strike: 43500.0
+2023-09-25 21:31:11,633:INFO:models.Strade:Leg Option Symbol: SPXW230922C04355000
+2023-09-25 21:31:11,633:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,633:INFO:models.Strade:Decoded Symbol Strike: 43550.0
+2023-09-25 21:31:11,633:INFO:models.Strade:Leg Option Symbol: SPXW230922C04345000
+2023-09-25 21:31:11,633:INFO:models.Strade:Decoded Symbol Type: C
+2023-09-25 21:31:11,634:INFO:models.Strade:Decoded Symbol Strike: 43450.0
+2023-09-25 21:31:11,634:INFO:models.Strade:=== Debugging End ===
+2023-09-25 21:31:11,635:ERROR:__main__:No center strike leg found for order with ID: 38231627.
+2023-09-25 21:31:11,635:ERROR:__main__:No center strike leg found for order with ID: 38231966.
+2023-09-25 21:31:11,635:ERROR:__main__:No center strike leg found for order with ID: 38233055.
+2023-09-25 21:31:23,501:INFO:__main__:Successfully parsed 8 butterflies.
+2023-09-25 21:31:27,707:ERROR:__main__:Error logging processed butterflies: 'Strade' object has no attribute 'order_id'

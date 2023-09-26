@@ -17,7 +17,7 @@ session_id = json_response.get('stream', {}).get('sessionid', 'Default Value')
 headers = {
     'Accept': 'application/json'
 }
-
+print(session_id)
 payload = {
     'sessionid': session_id,
     'symbols': 'qqq',

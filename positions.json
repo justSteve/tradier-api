@@ -1,0 +1,6 @@
+JSON data is not None
+Ignoring duplicate primary key.
+200
+{'positions': {'position': [{'cost_basis': 8816.0, 'date_acquired': '2023-09-22T18:15:51.202Z', 'id': 5299094, 'quantity': 4.0, 'symbol': 'SPXW230922C04305000'}, {'cost_basis': -14144.0, 'date_acquired': '2023-09-22T18:15:51.202Z', 'id': 5299096, 'quantity': -8.0, 'symbol': 'SPXW230922C04310000'}, {'cost_basis': 5468.0, 'date_acquired': '2023-09-22T18:15:51.202Z', 'id': 5299095, 'quantity': 4.0, 'symbol': 'SPXW230922C04315000'}, {'cost_basis': 784.0, 'date_acquired': '2023-09-22T15:18:53.433Z', 'id': 5293744, 'quantity': 2.0, 'symbol': 'SPXW230922C04360000'}, {'cost_basis': -628.0, 'date_acquired': '2023-09-22T15:18:53.433Z', 'id': 5293746, 'quantity': -4.0, 'symbol': 'SPXW230922C04370000'}, {'cost_basis': 124.0, 'date_acquired': '2023-09-22T15:18:53.433Z', 'id': 5293745, 'quantity': 2.0, 'symbol': 'SPXW230922C04380000'}, {'cost_basis': 170.0, 'date_acquired': '2023-09-22T17:49:49.202Z', 'id': 5298386, 'quantity': 1.0, 'symbol': 'SPXW230922P04310000'}, {'cost_basis': 336.0, 'date_acquired': '2023-09-22T18:02:31.997Z', 'id': 5298739, 'quantity': 2.0, 'symbol': 'SPXW230922P04315000'}, {'cost_basis': -350.0, 'date_acquired': '2023-09-22T17:49:49.202Z', 'id': 5298387, 'quantity': -1.0, 'symbol': 'SPXW230922P04320000'}]}}
+6YA29717
+T9DjeGqAdRxzDCbbAlScl7MnLZXp
